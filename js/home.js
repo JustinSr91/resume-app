@@ -33,17 +33,12 @@ export default React.createClass({
                           <h5 className="meta"> University of Cincinnati </h5>
                           <div className="time"> 2009 - 2010 </div>
                       </div>
+                      <div className="item">
+                          <h4 className="degree"> H.S. Diploma </h4>
+                          <h5 className="meta"> Mt. Healthy High School </h5>
+                          <div className="time"> 2005 - 2009 </div>
+                      </div>
                   </div>
-
-                  <div className="interests-container container-block">
-                      <h2 className="container-block-title"> Interests </h2>
-                      <ul className="list-unstyled interests-list">
-                          <li>Coding</li>
-                          <li>Learning</li>
-                          <li>Sports</li>
-                      </ul>
-                  </div>
-
               </div>
 
               <div className="main-wrapper">
@@ -51,24 +46,24 @@ export default React.createClass({
                   <section className="section summary-section">
                       <h2 className="section-title"><i className="fa fa-user"></i> Career Profile </h2>
                       <div className="summary">
-                          <p> My experience in various industries has cultivated a passion for people, technology, and problem solving which led me to explore a career as a Developer. I am a Front-End Engineering coding bootcamp gradute from The Iron Yard - San Antonio, and currently seeking an entry-level Developer position with a solid tech company. My goal is to gain professional experience, remote or office-based, where I will be given the opportunity to grow my skills and help create solutions to real world problems. I wish to help a company grow and maintain success, while keeping the needs of the consumer first priority. </p>
+                          <p> My experience in various industries has cultivated a passion for people, technology, and problem solving which led me to explore a career as a Developer. I am a Front-End Engineering coding bootcamp gradute from The Iron Yard - San Antonio, and currently seeking an entry-level Developer position with a solid tech company. My goal is to gain professional experience, remote or office-based, where I will be given the opportunity to grow my skills and help create solutions to real world problems. I wish to help a company grow and maintain success, while keeping the needs of the consumer first priority. I am currently available for hire, so feel free to reach out to me with any questions! </p>
                       </div>
                   </section>
 
                   <section className="section projects-section">
                       <h2 className="section-title"><i className="fa fa-archive"></i> Projects </h2>
                       <div className="intro">
-                          <p> Here is a list of projects that best showcase my skills: </p>
+                          <p> Some of my Work: </p>
                       </div>
                       <div className="item">
-                          <span className="project-title"><a href="https://retro-pigskin-app.herokuapp.com"> Retro Pigskin </a></span> - <span className="project-tagline"> This app delivers full NFL games from late 1990’s to early 2000’s. I used React.js and Node.js to build develop this application. </span>
+                          <span className="project-title"><a href="https://retro-pigskin-app.herokuapp.com"> Retro Pigskin </a></span> - <span className="project-tagline"> This application delivers full NFL games from late 1990’s to early 2000’s. I used React.js to develop, while Node.js was used for server side deployment. </span>
                       </div>
                       <div className="item">
                           <span className="project-title"><a href="https://client-week.herokuapp.com/" target="_blank"> All Things Spurs </a></span> -
-                          <span className="project-tagline"> San Antonio Spurs web app built with React.js and Node.js that allows users to create blog posts about recent Spurs games. Modal functionality used. </span>
+                          <span className="project-tagline"> San Antonio Spurs web app that was built with React.js and deployed with Node.js. It allows users to create blog posts for recent Spurs games while taking advantage of the quickness of Modal functionality. </span>
                       </div>
                       <div className="item">
-                          <span className="project-title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-startups-tempo/" target="_blank"> YouTube 2.0 </a></span> - <span className="project-tagline"> This is a mock recreation of a YouTube video page. This non-functional page was created to practice following a wireframe, using HTML and CSS only. </span>
+                          <span className="project-title"><a href="https://youtube-mock.herokuapp.com/index.html" target="_blank"> YouTube Mock </a></span> - <span className="project-tagline"> This static project is a mock YouTube video page that I created to test my ability to follow a wireframe. It was created using HTML, CSS, and deployed with PHP. </span>
                       </div>
                   </section>
 
@@ -76,35 +71,27 @@ export default React.createClass({
                       <h2 className="section-title"><i className="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
                       <div className="skillset">
                           <div className="item">
-                              <h3 className="level-title">Javascript &amp; jQuery</h3>
-                              <div className="level-bar">
-                                  <div className="level-bar-inner" data-level="60%">
-                                  </div>
-                              </div>
+                              <h3 className="level-title"> I have created applications using: </h3>
                           </div>
 
                           <div className="item">
-                              <h3 className="level-title">React.js</h3>
-                              <div className="level-bar">
-                                  <div className="level-bar-inner" data-level="60%">
-                                  </div>
-                              </div>
+                              <h3 className="level-title"> HTML5 &amp; CSS </h3>
                           </div>
 
                           <div className="item">
-                              <h3 className="level-title">HTML5 &amp; CSS</h3>
-                              <div className="level-bar">
-                                  <div className="level-bar-inner" data-level="70%">
-                                  </div>
-                              </div>
+                              <h3 className="level-title"> Node.js • Express • PHP </h3>
                           </div>
 
                           <div className="item">
-                              <h3 className="level-title">Bootstrap</h3>
-                              <div className="level-bar">
-                                  <div className="level-bar-inner" data-level="50%">
-                                  </div>
-                              </div>
+                              <h3 className="level-title"> JavaScript and jQuery </h3>
+                          </div>
+
+                          <div className="item">
+                              <h3 className="level-title"> React.js </h3>
+                          </div>
+
+                          <div className="item">
+                              <h3 className="level-title"> Bootstrap </h3>
                           </div>
                       </div>
                   </section>

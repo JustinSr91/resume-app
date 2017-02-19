@@ -26843,33 +26843,24 @@
 	                            { className: 'time' },
 	                            ' 2009 - 2010 '
 	                        )
-	                    )
-	                ),
-	                _react2.default.createElement(
-	                    'div',
-	                    { className: 'interests-container container-block' },
-	                    _react2.default.createElement(
-	                        'h2',
-	                        { className: 'container-block-title' },
-	                        ' Interests '
 	                    ),
 	                    _react2.default.createElement(
-	                        'ul',
-	                        { className: 'list-unstyled interests-list' },
+	                        'div',
+	                        { className: 'item' },
 	                        _react2.default.createElement(
-	                            'li',
-	                            null,
-	                            'Coding'
+	                            'h4',
+	                            { className: 'degree' },
+	                            ' H.S. Diploma '
 	                        ),
 	                        _react2.default.createElement(
-	                            'li',
-	                            null,
-	                            'Learning'
+	                            'h5',
+	                            { className: 'meta' },
+	                            ' Mt. Healthy High School '
 	                        ),
 	                        _react2.default.createElement(
-	                            'li',
-	                            null,
-	                            'Sports'
+	                            'div',
+	                            { className: 'time' },
+	                            ' 2005 - 2009 '
 	                        )
 	                    )
 	                )
@@ -26892,7 +26883,7 @@
 	                        _react2.default.createElement(
 	                            'p',
 	                            null,
-	                            ' My experience in various industries has cultivated a passion for people, technology, and problem solving which led me to explore a career as a Developer. I am a Front-End Engineering coding bootcamp gradute from The Iron Yard - San Antonio, and currently seeking an entry-level Developer position with a solid tech company. My goal is to gain professional experience, remote or office-based, where I will be given the opportunity to grow my skills and help create solutions to real world problems. I wish to help a company grow and maintain success, while keeping the needs of the consumer first priority. '
+	                            ' My experience in various industries has cultivated a passion for people, technology, and problem solving which led me to explore a career as a Developer. I am a Front-End Engineering coding bootcamp gradute from The Iron Yard - San Antonio, and currently seeking an entry-level Developer position with a solid tech company. My goal is to gain professional experience, remote or office-based, where I will be given the opportunity to grow my skills and help create solutions to real world problems. I wish to help a company grow and maintain success, while keeping the needs of the consumer first priority. I am currently available for hire, so feel free to reach out to me with any questions! '
 	                        )
 	                    )
 	                ),
@@ -26911,7 +26902,7 @@
 	                        _react2.default.createElement(
 	                            'p',
 	                            null,
-	                            ' Here is a list of projects that best showcase my skills: '
+	                            ' Some of my Work: '
 	                        )
 	                    ),
 	                    _react2.default.createElement(
@@ -26930,7 +26921,7 @@
 	                        _react2.default.createElement(
 	                            'span',
 	                            { className: 'project-tagline' },
-	                            ' This app delivers full NFL games from late 1990\u2019s to early 2000\u2019s. I used React.js and Node.js to build develop this application. '
+	                            ' This application delivers full NFL games from late 1990\u2019s to early 2000\u2019s. I used React.js to develop, while Node.js was used for server side deployment. '
 	                        )
 	                    ),
 	                    _react2.default.createElement(
@@ -26949,7 +26940,7 @@
 	                        _react2.default.createElement(
 	                            'span',
 	                            { className: 'project-tagline' },
-	                            ' San Antonio Spurs web app built with React.js and Node.js that allows users to create blog posts about recent Spurs games. Modal functionality used. '
+	                            ' San Antonio Spurs web app that was built with React.js and deployed with Node.js. It allows users to create blog posts for recent Spurs games while taking advantage of the quickness of Modal functionality. '
 	                        )
 	                    ),
 	                    _react2.default.createElement(
@@ -26960,15 +26951,15 @@
 	                            { className: 'project-title' },
 	                            _react2.default.createElement(
 	                                'a',
-	                                { href: 'http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-startups-tempo/', target: '_blank' },
-	                                ' YouTube 2.0 '
+	                                { href: 'https://youtube-mock.herokuapp.com/index.html', target: '_blank' },
+	                                ' YouTube Mock '
 	                            )
 	                        ),
 	                        ' - ',
 	                        _react2.default.createElement(
 	                            'span',
 	                            { className: 'project-tagline' },
-	                            ' This is a mock recreation of a YouTube video page. This non-functional page was created to practice following a wireframe, using HTML and CSS only. '
+	                            ' This static project is a mock YouTube video page that I created to test my ability to follow a wireframe. It was created using HTML, CSS, and deployed with PHP. '
 	                        )
 	                    )
 	                ),
@@ -26990,12 +26981,7 @@
 	                            _react2.default.createElement(
 	                                'h3',
 	                                { className: 'level-title' },
-	                                'Javascript & jQuery'
-	                            ),
-	                            _react2.default.createElement(
-	                                'div',
-	                                { className: 'level-bar' },
-	                                _react2.default.createElement('div', { className: 'level-bar-inner', 'data-level': '60%' })
+	                                ' I have created applications using: '
 	                            )
 	                        ),
 	                        _react2.default.createElement(
@@ -27004,12 +26990,7 @@
 	                            _react2.default.createElement(
 	                                'h3',
 	                                { className: 'level-title' },
-	                                'React.js'
-	                            ),
-	                            _react2.default.createElement(
-	                                'div',
-	                                { className: 'level-bar' },
-	                                _react2.default.createElement('div', { className: 'level-bar-inner', 'data-level': '60%' })
+	                                ' HTML5 & CSS '
 	                            )
 	                        ),
 	                        _react2.default.createElement(
@@ -27018,12 +26999,7 @@
 	                            _react2.default.createElement(
 	                                'h3',
 	                                { className: 'level-title' },
-	                                'HTML5 & CSS'
-	                            ),
-	                            _react2.default.createElement(
-	                                'div',
-	                                { className: 'level-bar' },
-	                                _react2.default.createElement('div', { className: 'level-bar-inner', 'data-level': '70%' })
+	                                ' Node.js \u2022 Express \u2022 PHP '
 	                            )
 	                        ),
 	                        _react2.default.createElement(
@@ -27032,12 +27008,25 @@
 	                            _react2.default.createElement(
 	                                'h3',
 	                                { className: 'level-title' },
-	                                'Bootstrap'
-	                            ),
+	                                ' JavaScript and jQuery '
+	                            )
+	                        ),
+	                        _react2.default.createElement(
+	                            'div',
+	                            { className: 'item' },
 	                            _react2.default.createElement(
-	                                'div',
-	                                { className: 'level-bar' },
-	                                _react2.default.createElement('div', { className: 'level-bar-inner', 'data-level': '50%' })
+	                                'h3',
+	                                { className: 'level-title' },
+	                                ' React.js '
+	                            )
+	                        ),
+	                        _react2.default.createElement(
+	                            'div',
+	                            { className: 'item' },
+	                            _react2.default.createElement(
+	                                'h3',
+	                                { className: 'level-title' },
+	                                ' Bootstrap '
 	                            )
 	                        )
 	                    )
