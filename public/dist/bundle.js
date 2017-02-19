@@ -58,19 +58,19 @@
 	
 	var _app2 = _interopRequireDefault(_app);
 	
-	var _projects = __webpack_require__(236);
+	var _projects = __webpack_require__(234);
 	
 	var _projects2 = _interopRequireDefault(_projects);
 	
-	var _blog = __webpack_require__(237);
+	var _blog = __webpack_require__(235);
 	
 	var _blog2 = _interopRequireDefault(_blog);
 	
-	var _home = __webpack_require__(238);
+	var _home = __webpack_require__(236);
 	
 	var _home2 = _interopRequireDefault(_home);
 	
-	var _jquery = __webpack_require__(239);
+	var _jquery = __webpack_require__(237);
 	
 	var _jquery2 = _interopRequireDefault(_jquery);
 	
@@ -26577,9 +26577,7 @@
 	});
 
 /***/ },
-/* 234 */,
-/* 235 */,
-/* 236 */
+/* 234 */
 /***/ function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -26660,7 +26658,7 @@
 	});
 
 /***/ },
-/* 237 */
+/* 235 */
 /***/ function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -26710,7 +26708,7 @@
 	});
 
 /***/ },
-/* 238 */
+/* 236 */
 /***/ function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -26780,16 +26778,6 @@
 	                        ),
 	                        _react2.default.createElement(
 	                            'li',
-	                            { className: 'website' },
-	                            _react2.default.createElement('i', { className: 'fa fa-globe' }),
-	                            _react2.default.createElement(
-	                                'a',
-	                                { href: 'http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/', target: '_blank' },
-	                                'portfoliosite.com'
-	                            )
-	                        ),
-	                        _react2.default.createElement(
-	                            'li',
 	                            { className: 'linkedin' },
 	                            _react2.default.createElement('i', { className: 'fa fa-linkedin' }),
 	                            _react2.default.createElement(
@@ -26804,7 +26792,7 @@
 	                            _react2.default.createElement('i', { className: 'fa fa-github' }),
 	                            _react2.default.createElement(
 	                                'a',
-	                                { href: 'https://github.com/JustinSr91', target: '_blank' },
+	                                { href: 'https://github.com/JustinSr91?tab=repositories', target: '_blank' },
 	                                'github.com/JustinSr91'
 	                            )
 	                        )
@@ -26816,7 +26804,7 @@
 	                    _react2.default.createElement(
 	                        'h2',
 	                        { className: 'container-block-title' },
-	                        'Education'
+	                        ' Education '
 	                    ),
 	                    _react2.default.createElement(
 	                        'div',
@@ -26824,17 +26812,17 @@
 	                        _react2.default.createElement(
 	                            'h4',
 	                            { className: 'degree' },
-	                            'MSc in Computer Science'
+	                            ' Front End Engineering Certificate of Completion '
 	                        ),
 	                        _react2.default.createElement(
 	                            'h5',
 	                            { className: 'meta' },
-	                            'University of London'
+	                            ' The Iron Yard, San Antonio '
 	                        ),
 	                        _react2.default.createElement(
 	                            'div',
 	                            { className: 'time' },
-	                            '2011 - 2012'
+	                            '2016 - 2017'
 	                        )
 	                    ),
 	                    _react2.default.createElement(
@@ -26843,17 +26831,17 @@
 	                        _react2.default.createElement(
 	                            'h4',
 	                            { className: 'degree' },
-	                            'BSc in Applied Mathematics'
+	                            ' General Studies '
 	                        ),
 	                        _react2.default.createElement(
 	                            'h5',
 	                            { className: 'meta' },
-	                            'Bristol University'
+	                            ' University of Cincinnati '
 	                        ),
 	                        _react2.default.createElement(
 	                            'div',
 	                            { className: 'time' },
-	                            '2007 - 2011'
+	                            ' 2009 - 2010 '
 	                        )
 	                    )
 	                ),
@@ -26863,7 +26851,7 @@
 	                    _react2.default.createElement(
 	                        'h2',
 	                        { className: 'container-block-title' },
-	                        'Interests'
+	                        ' Interests '
 	                    ),
 	                    _react2.default.createElement(
 	                        'ul',
@@ -26871,17 +26859,17 @@
 	                        _react2.default.createElement(
 	                            'li',
 	                            null,
-	                            'Climbing'
+	                            'Coding'
 	                        ),
 	                        _react2.default.createElement(
 	                            'li',
 	                            null,
-	                            'Snowboarding'
+	                            'Learning'
 	                        ),
 	                        _react2.default.createElement(
 	                            'li',
 	                            null,
-	                            'Cooking'
+	                            'Sports'
 	                        )
 	                    )
 	                )
@@ -26896,7 +26884,7 @@
 	                        'h2',
 	                        { className: 'section-title' },
 	                        _react2.default.createElement('i', { className: 'fa fa-user' }),
-	                        'Career Profile'
+	                        ' Career Profile '
 	                    ),
 	                    _react2.default.createElement(
 	                        'div',
@@ -26904,13 +26892,7 @@
 	                        _react2.default.createElement(
 	                            'p',
 	                            null,
-	                            'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit. You can ',
-	                            _react2.default.createElement(
-	                                'a',
-	                                { href: 'http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/', target: '_blank' },
-	                                'download this free resume/CV template here'
-	                            ),
-	                            '. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+	                            ' My experience in various industries has cultivated a passion for people, technology, and problem solving which led me to explore a career as a Developer. I am a Front-End Engineering coding bootcamp gradute from The Iron Yard - San Antonio, and currently seeking an entry-level Developer position with a solid tech company. My goal is to gain professional experience, remote or office-based, where I will be given the opportunity to grow my skills and help create solutions to real world problems. I wish to help a company grow and maintain success, while keeping the needs of the consumer first priority. '
 	                        )
 	                    )
 	                ),
@@ -26921,7 +26903,7 @@
 	                        'h2',
 	                        { className: 'section-title' },
 	                        _react2.default.createElement('i', { className: 'fa fa-archive' }),
-	                        'Projects'
+	                        ' Projects '
 	                    ),
 	                    _react2.default.createElement(
 	                        'div',
@@ -26929,7 +26911,7 @@
 	                        _react2.default.createElement(
 	                            'p',
 	                            null,
-	                            'You can list your side projects or open source libraries in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.'
+	                            ' Here is a list of projects that best showcase my skills: '
 	                        )
 	                    ),
 	                    _react2.default.createElement(
@@ -26940,15 +26922,15 @@
 	                            { className: 'project-title' },
 	                            _react2.default.createElement(
 	                                'a',
-	                                { href: '#' },
-	                                'Velocity'
+	                                { href: 'https://retro-pigskin-app.herokuapp.com' },
+	                                ' Retro Pigskin '
 	                            )
 	                        ),
 	                        ' - ',
 	                        _react2.default.createElement(
 	                            'span',
 	                            { className: 'project-tagline' },
-	                            'A responsive website template designed to help startups promote, market and sell their products.'
+	                            ' This app delivers full NFL games from late 1990\u2019s to early 2000\u2019s. I used React.js and Node.js to build develop this application. '
 	                        )
 	                    ),
 	                    _react2.default.createElement(
@@ -26959,15 +26941,15 @@
 	                            { className: 'project-title' },
 	                            _react2.default.createElement(
 	                                'a',
-	                                { href: 'http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/', target: '_blank' },
-	                                'DevStudio'
+	                                { href: 'https://client-week.herokuapp.com/', target: '_blank' },
+	                                ' All Things Spurs '
 	                            )
 	                        ),
 	                        ' -',
 	                        _react2.default.createElement(
 	                            'span',
 	                            { className: 'project-tagline' },
-	                            'A responsive website template designed to help web developers/designers market their services. '
+	                            ' San Antonio Spurs web app built with React.js and Node.js that allows users to create blog posts about recent Spurs games. Modal functionality used. '
 	                        )
 	                    ),
 	                    _react2.default.createElement(
@@ -26979,52 +26961,14 @@
 	                            _react2.default.createElement(
 	                                'a',
 	                                { href: 'http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-startups-tempo/', target: '_blank' },
-	                                'Tempo'
+	                                ' YouTube 2.0 '
 	                            )
 	                        ),
 	                        ' - ',
 	                        _react2.default.createElement(
 	                            'span',
 	                            { className: 'project-tagline' },
-	                            'A responsive website template designed to help startups promote their products or services and to attract users & investors'
-	                        )
-	                    ),
-	                    _react2.default.createElement(
-	                        'div',
-	                        { className: 'item' },
-	                        _react2.default.createElement(
-	                            'span',
-	                            { className: 'project-title' },
-	                            _react2.default.createElement(
-	                                'a',
-	                                { href: 'hhttp://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-mobile-apps-atom/', target: '_blank' },
-	                                'Atom'
-	                            )
-	                        ),
-	                        ' - ',
-	                        _react2.default.createElement(
-	                            'span',
-	                            { className: 'project-tagline' },
-	                            'A comprehensive website template solution for startups/developers to market their mobile apps. '
-	                        )
-	                    ),
-	                    _react2.default.createElement(
-	                        'div',
-	                        { className: 'item' },
-	                        _react2.default.createElement(
-	                            'span',
-	                            { className: 'project-title' },
-	                            _react2.default.createElement(
-	                                'a',
-	                                { href: 'http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-mobile-apps-delta/', target: '_blank' },
-	                                'Delta'
-	                            )
-	                        ),
-	                        ' - ',
-	                        _react2.default.createElement(
-	                            'span',
-	                            { className: 'project-tagline' },
-	                            'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
+	                            ' This is a mock recreation of a YouTube video page. This non-functional page was created to practice following a wireframe, using HTML and CSS only. '
 	                        )
 	                    )
 	                ),
@@ -27046,26 +26990,12 @@
 	                            _react2.default.createElement(
 	                                'h3',
 	                                { className: 'level-title' },
-	                                'Python & Django'
-	                            ),
-	                            _react2.default.createElement(
-	                                'div',
-	                                { className: 'level-bar' },
-	                                _react2.default.createElement('div', { className: 'level-bar-inner', 'data-level': '98%' })
-	                            )
-	                        ),
-	                        _react2.default.createElement(
-	                            'div',
-	                            { className: 'item' },
-	                            _react2.default.createElement(
-	                                'h3',
-	                                { className: 'level-title' },
 	                                'Javascript & jQuery'
 	                            ),
 	                            _react2.default.createElement(
 	                                'div',
 	                                { className: 'level-bar' },
-	                                _react2.default.createElement('div', { className: 'level-bar-inner', 'data-level': '98%' })
+	                                _react2.default.createElement('div', { className: 'level-bar-inner', 'data-level': '60%' })
 	                            )
 	                        ),
 	                        _react2.default.createElement(
@@ -27074,12 +27004,12 @@
 	                            _react2.default.createElement(
 	                                'h3',
 	                                { className: 'level-title' },
-	                                'Angular'
+	                                'React.js'
 	                            ),
 	                            _react2.default.createElement(
 	                                'div',
 	                                { className: 'level-bar' },
-	                                _react2.default.createElement('div', { className: 'level-bar-inner', 'data-level': '98%' })
+	                                _react2.default.createElement('div', { className: 'level-bar-inner', 'data-level': '60%' })
 	                            )
 	                        ),
 	                        _react2.default.createElement(
@@ -27093,7 +27023,7 @@
 	                            _react2.default.createElement(
 	                                'div',
 	                                { className: 'level-bar' },
-	                                _react2.default.createElement('div', { className: 'level-bar-inner', 'data-level': '95%' })
+	                                _react2.default.createElement('div', { className: 'level-bar-inner', 'data-level': '70%' })
 	                            )
 	                        ),
 	                        _react2.default.createElement(
@@ -27102,26 +27032,12 @@
 	                            _react2.default.createElement(
 	                                'h3',
 	                                { className: 'level-title' },
-	                                'Ruby on Rails'
+	                                'Bootstrap'
 	                            ),
 	                            _react2.default.createElement(
 	                                'div',
 	                                { className: 'level-bar' },
-	                                _react2.default.createElement('div', { className: 'level-bar-inner', 'data-level': '85%' })
-	                            )
-	                        ),
-	                        _react2.default.createElement(
-	                            'div',
-	                            { className: 'item' },
-	                            _react2.default.createElement(
-	                                'h3',
-	                                { className: 'level-title' },
-	                                'Sketch & Photoshop'
-	                            ),
-	                            _react2.default.createElement(
-	                                'div',
-	                                { className: 'level-bar' },
-	                                _react2.default.createElement('div', { className: 'level-bar-inner', 'data-level': '60%' })
+	                                _react2.default.createElement('div', { className: 'level-bar-inner', 'data-level': '50%' })
 	                            )
 	                        )
 	                    )
@@ -27132,7 +27048,7 @@
 	});
 
 /***/ },
-/* 239 */
+/* 237 */
 /***/ function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!

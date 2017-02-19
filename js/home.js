@@ -17,31 +17,30 @@ export default React.createClass({
                       <ul className="list-unstyled contact-list">
                           <li className="email"><i className="fa fa-envelope"></i><a href="mailto: justin.strayhorn@hotmail.com">justin.strayhorn@hotmail.com</a></li>
                           <li className="phone"><i className="fa fa-phone"></i><a href="tel:210 763 9608">210 763 9608</a></li>
-                          <li className="website"><i className="fa fa-globe"></i><a href="http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/" target="_blank">portfoliosite.com</a></li>
                           <li className="linkedin"><i className="fa fa-linkedin"></i><a href="https://www.linkedin.com/in/justin-strayhorn-51263799" target="_blank">linkedin.com/in/justin-strayhorn-51263799</a></li>
-                          <li className="github"><i className="fa fa-github"></i><a href="https://github.com/JustinSr91" target="_blank">github.com/JustinSr91</a></li>
+                          <li className="github"><i className="fa fa-github"></i><a href="https://github.com/JustinSr91?tab=repositories" target="_blank">github.com/JustinSr91</a></li>
                       </ul>
                   </div>
                   <div className="education-container container-block">
-                      <h2 className="container-block-title">Education</h2>
+                      <h2 className="container-block-title"> Education </h2>
                       <div className="item">
-                          <h4 className="degree">MSc in Computer Science</h4>
-                          <h5 className="meta">University of London</h5>
-                          <div className="time">2011 - 2012</div>
+                          <h4 className="degree"> Front End Engineering Certificate of Completion </h4>
+                          <h5 className="meta"> The Iron Yard, San Antonio </h5>
+                          <div className="time">2016 - 2017</div>
                       </div>
                       <div className="item">
-                          <h4 className="degree">BSc in Applied Mathematics</h4>
-                          <h5 className="meta">Bristol University</h5>
-                          <div className="time">2007 - 2011</div>
+                          <h4 className="degree"> General Studies </h4>
+                          <h5 className="meta"> University of Cincinnati </h5>
+                          <div className="time"> 2009 - 2010 </div>
                       </div>
                   </div>
 
                   <div className="interests-container container-block">
-                      <h2 className="container-block-title">Interests</h2>
+                      <h2 className="container-block-title"> Interests </h2>
                       <ul className="list-unstyled interests-list">
-                          <li>Climbing</li>
-                          <li>Snowboarding</li>
-                          <li>Cooking</li>
+                          <li>Coding</li>
+                          <li>Learning</li>
+                          <li>Sports</li>
                       </ul>
                   </div>
 
@@ -50,33 +49,26 @@ export default React.createClass({
               <div className="main-wrapper">
 
                   <section className="section summary-section">
-                      <h2 className="section-title"><i className="fa fa-user"></i>Career Profile</h2>
+                      <h2 className="section-title"><i className="fa fa-user"></i> Career Profile </h2>
                       <div className="summary">
-                          <p>Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit. You can <a href="http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.</p>
+                          <p> My experience in various industries has cultivated a passion for people, technology, and problem solving which led me to explore a career as a Developer. I am a Front-End Engineering coding bootcamp gradute from The Iron Yard - San Antonio, and currently seeking an entry-level Developer position with a solid tech company. My goal is to gain professional experience, remote or office-based, where I will be given the opportunity to grow my skills and help create solutions to real world problems. I wish to help a company grow and maintain success, while keeping the needs of the consumer first priority. </p>
                       </div>
                   </section>
 
                   <section className="section projects-section">
-                      <h2 className="section-title"><i className="fa fa-archive"></i>Projects</h2>
+                      <h2 className="section-title"><i className="fa fa-archive"></i> Projects </h2>
                       <div className="intro">
-                          <p>You can list your side projects or open source libraries in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.</p>
+                          <p> Here is a list of projects that best showcase my skills: </p>
                       </div>
                       <div className="item">
-                          <span className="project-title"><a href="#">Velocity</a></span> - <span className="project-tagline">A responsive website template designed to help startups promote, market and sell their products.</span>
-
+                          <span className="project-title"><a href="https://retro-pigskin-app.herokuapp.com"> Retro Pigskin </a></span> - <span className="project-tagline"> This app delivers full NFL games from late 1990’s to early 2000’s. I used React.js and Node.js to build develop this application. </span>
                       </div>
                       <div className="item">
-                          <span className="project-title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/" target="_blank">DevStudio</a></span> -
-                          <span className="project-tagline">A responsive website template designed to help web developers/designers market their services. </span>
+                          <span className="project-title"><a href="https://client-week.herokuapp.com/" target="_blank"> All Things Spurs </a></span> -
+                          <span className="project-tagline"> San Antonio Spurs web app built with React.js and Node.js that allows users to create blog posts about recent Spurs games. Modal functionality used. </span>
                       </div>
                       <div className="item">
-                          <span className="project-title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-startups-tempo/" target="_blank">Tempo</a></span> - <span className="project-tagline">A responsive website template designed to help startups promote their products or services and to attract users &amp; investors</span>
-                      </div>
-                      <div className="item">
-                          <span className="project-title"><a href="hhttp://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-mobile-apps-atom/" target="_blank">Atom</a></span> - <span className="project-tagline">A comprehensive website template solution for startups/developers to market their mobile apps. </span>
-                      </div>
-                      <div className="item">
-                          <span className="project-title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-mobile-apps-delta/" target="_blank">Delta</a></span> - <span className="project-tagline">A responsive Bootstrap one page theme designed to help app developers promote their mobile apps</span>
+                          <span className="project-title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-startups-tempo/" target="_blank"> YouTube 2.0 </a></span> - <span className="project-tagline"> This is a mock recreation of a YouTube video page. This non-functional page was created to practice following a wireframe, using HTML and CSS only. </span>
                       </div>
                   </section>
 
@@ -84,25 +76,17 @@ export default React.createClass({
                       <h2 className="section-title"><i className="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
                       <div className="skillset">
                           <div className="item">
-                              <h3 className="level-title">Python &amp; Django</h3>
-                              <div className="level-bar">
-                                  <div className="level-bar-inner" data-level="98%">
-                                  </div>
-                              </div>
-                          </div>
-
-                          <div className="item">
                               <h3 className="level-title">Javascript &amp; jQuery</h3>
                               <div className="level-bar">
-                                  <div className="level-bar-inner" data-level="98%">
+                                  <div className="level-bar-inner" data-level="60%">
                                   </div>
                               </div>
                           </div>
 
                           <div className="item">
-                              <h3 className="level-title">Angular</h3>
+                              <h3 className="level-title">React.js</h3>
                               <div className="level-bar">
-                                  <div className="level-bar-inner" data-level="98%">
+                                  <div className="level-bar-inner" data-level="60%">
                                   </div>
                               </div>
                           </div>
@@ -110,27 +94,18 @@ export default React.createClass({
                           <div className="item">
                               <h3 className="level-title">HTML5 &amp; CSS</h3>
                               <div className="level-bar">
-                                  <div className="level-bar-inner" data-level="95%">
+                                  <div className="level-bar-inner" data-level="70%">
                                   </div>
                               </div>
                           </div>
 
                           <div className="item">
-                              <h3 className="level-title">Ruby on Rails</h3>
+                              <h3 className="level-title">Bootstrap</h3>
                               <div className="level-bar">
-                                  <div className="level-bar-inner" data-level="85%">
+                                  <div className="level-bar-inner" data-level="50%">
                                   </div>
                               </div>
                           </div>
-
-                          <div className="item">
-                              <h3 className="level-title">Sketch &amp; Photoshop</h3>
-                              <div className="level-bar">
-                                  <div className="level-bar-inner" data-level="60%">
-                                  </div>
-                              </div>
-                          </div>
-
                       </div>
                   </section>
 
