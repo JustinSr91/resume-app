@@ -26782,8 +26782,8 @@
 	                            _react2.default.createElement('i', { className: 'fa fa-linkedin' }),
 	                            _react2.default.createElement(
 	                                'a',
-	                                { href: 'https://www.linkedin.com/in/justin-strayhorn-51263799', target: '_blank' },
-	                                'linkedin.com/in/justin-strayhorn-51263799'
+	                                { href: 'https://www.linkedin.com/in/justin-strayhorn', target: '_blank' },
+	                                'linkedin.com/in/justin-strayhorn'
 	                            )
 	                        ),
 	                        _react2.default.createElement(

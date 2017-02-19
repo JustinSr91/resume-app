@@ -17,7 +17,7 @@ export default React.createClass({
                       <ul className="list-unstyled contact-list">
                           <li className="email"><i className="fa fa-envelope"></i><a href="mailto: justin.strayhorn@hotmail.com">justin.strayhorn@hotmail.com</a></li>
                           <li className="phone"><i className="fa fa-phone"></i><a href="tel:210 763 9608">210 763 9608</a></li>
-                          <li className="linkedin"><i className="fa fa-linkedin"></i><a href="https://www.linkedin.com/in/justin-strayhorn-51263799" target="_blank">linkedin.com/in/justin-strayhorn-51263799</a></li>
+                          <li className="linkedin"><i className="fa fa-linkedin"></i><a href="https://www.linkedin.com/in/justin-strayhorn" target="_blank">linkedin.com/in/justin-strayhorn</a></li>
                           <li className="github"><i className="fa fa-github"></i><a href="https://github.com/JustinSr91?tab=repositories" target="_blank">github.com/JustinSr91</a></li>
                       </ul>
                   </div>
